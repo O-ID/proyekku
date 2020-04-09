@@ -15,6 +15,7 @@
             <input type="checkbox" class="custom-control-input" name="check_list[]" value="123" id="customCheck6">
             <label class="custom-control-label" for="customCheck6">C/C++</label>
         </div>
+        <label for="">Choose</label>
         <div class="custom-control custom-checkbox">
             <input type="checkbox" class="custom-control-input" name="check_list[]" value="Java" id="customCheck7">
             <label class="custom-control-label" for="customCheck7">Java</label>
